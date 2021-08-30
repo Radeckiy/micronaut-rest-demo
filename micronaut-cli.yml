@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.radeckiy
+testFramework: junit
+sourceLanguage: kotlinё
+buildTool: gradle
+features: [ app-name, gradle, hibernate-jpa, http-client, jdbc-hikari, jetty-server, junit, kotlin, kotlin-application, kotlin-extension-functions, openapi, postgres, readme, shade, slf4j-simple, testcontainers, yaml ]
